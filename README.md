@@ -49,6 +49,9 @@ counts of each user type
 counts of each gender (only available for NYC and Chicago)
 earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+# Additionally
+The last part of the program asks the user if they would like to view some raw data and shows five lines of raw data upon request.
+
 
 
 ### Files used
