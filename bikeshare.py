@@ -252,9 +252,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
-# I got help on some ideas to use in the project from these two sources:
-# https://github.com/SadiqAlreemi/Explore-US-Bikeshare-Data/blob/master/Python_Project.py
-# https://github.com/YashMotwani/US-Bikeshare-Data-Exploration-Program/blob/master/bikeshare_2.py
-# I read their code on the places where I had issues with and then wrote them on my own.
-# Similar coding tasks within my project were then much easier to do since the codes followed a similar pattern from there onwards
